@@ -153,7 +153,7 @@ Paste the following script into the Console and press Enter.
 Update:
 
 ```javascript
-const TOTAL_PAGES = 42;
+const TOTAL_PAGES = 42;( Change the number to your desired number upto which you want to download the answersheet) 
 ```
 
 to match your answer script.
