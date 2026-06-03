@@ -221,19 +221,14 @@ The script will:
 4. Continue until the last page
 5. Generate a PDF
 
-Console output:
+Console output during rendering will show:
 
 ```text
-Captured page 1
-Captured page 2
-Captured page 3
-...
-Captured page 42
-Export completed
+Promise {<pending>}
 ```
 
 ---
-
+After the page reached to Nth page number, the pdf download will pop up
 # Step 10: Download the PDF
 
 Once complete:
